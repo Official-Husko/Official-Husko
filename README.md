@@ -89,10 +89,10 @@ I value open-source, privacy, and transparency in projects.
 ---
 ## 📋 **Other Repositories**
 <div id="other-repos" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Official-Husko/f95-notify">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Official-Husko&repo=f95-notify&theme=transparent&hide_border=false" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Official-Husko/69-days-after-oscgp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Official-Husko&repo=69-days-after-oscgp&theme=transparent&hide_border=false" />
   </a>
 </div>
