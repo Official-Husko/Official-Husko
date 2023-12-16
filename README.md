@@ -8,7 +8,7 @@
   <img src="https://media3.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="el_jamos">
+  <a href="https://discord.com/invite/7Eg9CuHX">
     <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=3f4deb" alt="Discord Badge"/>
   </a>
   <a href="https://matrix.to/#/@official-husko:matrix.org" align="center">
